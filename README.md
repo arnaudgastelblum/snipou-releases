@@ -3,6 +3,8 @@
 Free, lightweight screenshot and whiteboard app for Windows. One hotkey, a precise capture, a
 clean annotation editor, and the result is already in your clipboard.
 
+![Annotating a screenshot in Snipou: numbered steps, an arrow, a callout and blurred personal data](media/02-annotate.png)
+
 ## Download
 
 - **[Installer](https://github.com/arnaudgastelblum/snipou-releases/releases/latest/download/snipou-setup.exe)**:
@@ -29,6 +31,12 @@ with Windows 11 and recent Windows 10 updates (the installer adds it when it is 
 - **Library**: recent captures and boards, one click away.
 - **Languages**: English, French, Spanish, Dutch and German.
 - **Private**: no account, no telemetry, no network calls. Everything stays on your computer.
+
+![Placing steps, an arrow and blur on a screenshot](media/annotate.gif)
+
+![A Snipou board explaining a weekly routine with steps, a screenshot, a callout and sticky notes](media/03-board.png)
+
+![The same board in four themes: Cards, Pastel, Blueprint and Chalkboard](media/04-themes.png)
 
 ## First launch
 
