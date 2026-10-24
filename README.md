@@ -7,6 +7,10 @@ clean annotation editor, and the result is already in your clipboard.
 
 ## Download
 
+[![Get it from Microsoft](media/microsoft-store-badge.svg)](https://apps.microsoft.com/detail/9MZSSPHWZ8BL)
+
+- **[Microsoft Store](https://apps.microsoft.com/detail/9MZSSPHWZ8BL)**: the simplest way;
+  Windows installs it and keeps it up to date.
 - **[Installer](https://github.com/arnaudgastelblum/snipou-releases/releases/latest/download/snipou-setup.exe)**:
   installs for the current user, no administrator rights needed.
 - **[Portable](https://github.com/arnaudgastelblum/snipou-releases/releases/latest/download/snipou-portable.zip)**:
@@ -40,7 +44,7 @@ with Windows 11 and recent Windows 10 updates (the installer adds it when it is 
 
 ## First launch
 
-Snipou is not code-signed yet, so Windows may show "Windows protected your PC" the first time.
+The installer and portable builds are not code-signed yet, so Windows may show "Windows protected your PC" the first time.
 Click **More info**, then **Run anyway**.
 
 To check a download, compare its SHA-256 with `SHA256SUMS.txt` in the release:
@@ -51,7 +55,8 @@ Get-FileHash .\snipou-setup.exe -Algorithm SHA256
 
 ## Updates
 
-Snipou never checks for updates by itself. New versions are published on the
+The Store edition is updated by Windows. The installer and portable builds never check for
+updates by themselves: new versions are published on the
 [Releases](https://github.com/arnaudgastelblum/snipou-releases/releases) page; on GitHub,
 **Watch → Custom → Releases** notifies you of them.
 
