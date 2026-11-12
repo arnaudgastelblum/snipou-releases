@@ -3,8 +3,8 @@ THIRD-PARTY NOTICES
 Snipou includes the following third-party software. Each component is listed with its
 version and licence, followed by the copyright and licence notices distributed with it.
 
-  1. JavaScript packages (34)
-  2. Rust crates (265)
+  1. JavaScript packages (33)
+  2. Rust crates (266)
   3. Fonts (1)
   4. Standard licence texts
 
@@ -89,40 +89,6 @@ PackageHomePage: https://tauri.app
 PackageLicenseDeclared: Apache-2.0
 PackageLicenseDeclared: MIT
 PackageCopyrightText: 2019-2025, The Tauri Programme in the Commons Conservancy
-PackageSummary: <text>Tauri is a rust project that enables developers to make secure
-and small desktop applications using a web frontend.
-                </text>
-PackageComment: <text>The package includes the following libraries; see
-Relationship information.
-                </text>
-Created: 2019-05-20T09:00:00Z
-PackageDownloadLocation: git://github.com/tauri-apps/tauri
-PackageDownloadLocation: git+https://github.com/tauri-apps/tauri.git
-PackageDownloadLocation: git+ssh://github.com/tauri-apps/tauri.git
-Creator: Person: Daniel Thompson-Yvetot
-
---------------------------------------------------------------------------------
-@tauri-apps/plugin-autostart 2.7.0 — MIT OR Apache-2.0
-https://github.com/tauri-apps/plugins-workspace
---------------------------------------------------------------------------------
-
-Licence text not included in the package.
-
-The licence files of the same repository are reproduced under tauri-plugin-autostart 2.7.0.
-
-The Apache License, Version 2.0 is reproduced under "Standard licence texts" below.
-
-[LICENSE.spdx]
-
-SPDXVersion: SPDX-2.1
-DataLicense: CC0-1.0
-PackageName: tauri
-DataFormat: SPDXRef-1
-PackageSupplier: Organization: The Tauri Programme in the Commons Conservancy
-PackageHomePage: https://tauri.app
-PackageLicenseDeclared: Apache-2.0
-PackageLicenseDeclared: MIT
-PackageCopyrightText: 2019-2022, The Tauri Programme in the Commons Conservancy
 PackageSummary: <text>Tauri is a rust project that enables developers to make secure
 and small desktop applications using a web frontend.
                 </text>
@@ -14045,6 +14011,38 @@ SPDX-License-Identifier: Unicode-3.0
 
 Portions of ICU4X may have been adapted from ICU4C and/or ICU4J.
 ICU 1.8.1 to ICU 57.1 © 1995-2016 International Business Machines Corporation and others.
+
+--------------------------------------------------------------------------------
+zip 2.6.1 — MIT
+https://github.com/zip-rs/zip2.git
+--------------------------------------------------------------------------------
+
+[LICENSE]
+
+The MIT License (MIT)
+
+Copyright (c) 2014 Mathijs van de Nes
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+Some files in the "tests/data" subdirectory of this repository are under other
+licences; see files named LICENSE.*.txt for details.
 
 --------------------------------------------------------------------------------
 zmij 1.0.23 — MIT

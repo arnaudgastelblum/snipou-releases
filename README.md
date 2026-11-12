@@ -1,7 +1,8 @@
 # Snipou
 
-Free, lightweight screenshot and whiteboard app for Windows. One hotkey, a precise capture, a
-clean annotation editor, and the result is already in your clipboard.
+Free, lightweight screenshot, whiteboard and screen recording app for Windows. One hotkey, a
+precise capture, a clean annotation editor, and the result is already in your clipboard. When it
+has to move, record it and edit the video.
 
 ![Annotating a screenshot in Snipou: numbered steps, an arrow, a callout and blurred personal data](media/02-annotate.png)
 
@@ -32,7 +33,14 @@ with Windows 11 and recent Windows 10 updates (the installer adds it when it is 
   crop, pen, stamps and image effects.
 - **Boards**: an infinite canvas to explain with shapes, arrows, sticky notes and pictures, with
   board themes, a clean or hand-drawn look and alignment guides.
-- **Library**: recent captures and boards, one click away.
+- **Retouch**: crop, magic wand and eraser; open any picture file as a capture.
+- **Record**: a region, a window or the whole screen, with the microphone, the system sound and
+  the camera. Every click becomes a numbered step screenshot. MP4 or GIF.
+- **Edit the video**: cut, speed up, zoom, captions, lower thirds, transitions, music with
+  ducking, loops, animated intros, outros and calls to action saved as your own templates, and
+  MP4 export.
+- **Library**: recent captures, boards, recordings and video projects, one click away. Share any
+  of them as one `.snipou` file.
 - **Languages**: English, French, Spanish, Dutch and German.
 - **Private**: no account, no telemetry, no network calls. Everything stays on your computer.
 
@@ -41,6 +49,8 @@ with Windows 11 and recent Windows 10 updates (the installer adds it when it is 
 ![A Snipou board explaining a weekly routine with steps, a screenshot, a callout and sticky notes](media/03-board.png)
 
 ![The same board in four themes: Cards, Pastel, Blueprint and Chalkboard](media/04-themes.png)
+
+![The video editor: an animated intro over a looping clip, a music track and the Repeat settings](media/video-editor.webp)
 
 ## First launch
 
